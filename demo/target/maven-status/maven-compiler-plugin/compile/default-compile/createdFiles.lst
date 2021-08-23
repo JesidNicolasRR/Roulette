@@ -1,0 +1,5 @@
+com\Masiv\Roulette\api\RoulleteApi.class
+com\Masiv\Roulette\services\RouletteServices.class
+com\Masiv\Roulette\RouletteApplication.class
+com\Masiv\Roulette\services\PersonServices.class
+com\Masiv\Roulette\api\PersonApi.class
